@@ -1,0 +1,23 @@
+* {
+  border: 1px solid rgb(255, 255, 255);
+  background-color: rgb(0, 0, 0);
+}
+
+.title, .description, .ending{
+  color: rgb(0, 255, 255);
+  padding: 10px;
+  margin: 10px;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  
+}
+.title {
+  background-color: rgb(123, 104, 238);
+}
+.description {
+  background-color: rgb(255, 0, 0);
+}
+.ending {
+  background-color: rgb(95, 158, 160);
+}
