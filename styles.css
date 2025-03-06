@@ -10,14 +10,19 @@
   width: -webkit-fit-content;
   width: -moz-fit-content;
   width: fit-content;
-  
+  display: inline-block;
 }
 .title {
   background-color: rgb(123, 104, 238);
+  height: 100px;
 }
 .description {
   background-color: rgb(255, 0, 0);
+  height: 200px;
+  display: flexbox;
 }
 .ending {
   background-color: rgb(95, 158, 160);
+  height: 80px;
+  display: flex;
 }
